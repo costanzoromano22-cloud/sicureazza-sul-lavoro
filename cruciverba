@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Cruciverba</title>
+    <link rel="stylesheet" href="style.css">
+	
+	 <img src="logo.png" alt="Logo" align="right" width="100" style="margin: 10px;">
+	 
+</head>
+
+<body>
+
+<header>
+    <h1>Cruciverba sulla Sicurezza</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="materiale.html">Materiale</a>
+    <a href="cruciverba.html">Cruciverba</a>
+</nav>
+
+<main>
+    <h2>Risolvi il cruciverba</h2>
+
+    <p>Usa il materiale per trovare le risposte!</p>
+
+  
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+    <iframe width="900" height="1100"
+        style="border:3px #A5D9FD ; margin:auto; margin-left: 3px; border-radius: 20px;"
+        src="https://crosswordlabs.com/embed/sicurezza-sul-lavoro-4">
+    </iframe>
+
+    <iframe width="900" height="1100"
+        style="border:3px #A5D9FD solid; border-radius:20px;"
+        src="https://crosswordlabs.com/embed/workplace-safety">
+    </iframe>
+
+</div>
+
+</main>
+
+
+
+</body>
+</html> 
