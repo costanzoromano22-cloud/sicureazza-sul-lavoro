@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Materiale - Sicurezza</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Materiale di Studio</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="materiale.html">Materiale</a>
+    <a href="cruciverba.html">Cruciverba</a>
+</nav>
+
+<main>
+
+    <h2>Cos'è la sicurezza sul lavoro?</h2>
+    <p>
+        È l’insieme di regole e comportamenti per proteggere i lavoratori dai rischi.
+    </p>
+
+    <h2>DPI (Dispositivi di Protezione Individuale)</h2>
+    <ul>
+        <li>Casco</li>
+        <li>Guanti</li>
+        <li>Scarpe antinfortunistiche</li>
+        <li>Mascherine</li>
+    </ul>
+
+    <h2>Rischi principali</h2>
+    <ul>
+        <li>Cadute</li>
+        <li>Tagli</li>
+        <li>Incendi</li>
+        <li>Sostanze tossiche</li>
+    </ul>
+
+    <h2>Comportamenti corretti</h2>
+    <p>
+        Seguire le regole, usare i DPI e fare attenzione all’ambiente di lavoro.
+    </p>
+<img src="sicurezza.jpg" alt=" sicurezza">
+</main>
+
+
+</body>
+</html>
